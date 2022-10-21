@@ -3,7 +3,7 @@
 /*視窗背景色設定*/
 body{
     background-color: #f8f4a7;
-    background-image:url(/cat.jpg);
+    background-image:url(cat.jpg);
     background-repeat:repeat-x;
     }
 
